@@ -36,3 +36,4 @@ java.io.FileNotFoundException: /Users/ijihyeon/Desktop/self_study/workspace/.met
 	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1150)
 	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:51)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 23:33:18,400 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

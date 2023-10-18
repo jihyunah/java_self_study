@@ -1,4 +1,4 @@
-INDEX VERSION 1.131+/Users/ijihyeon/Desktop/self_study/workspace/.metadata/.plugins/org.eclipse.jdt.core
-3981961839.index
-1865797976.index
+INDEX VERSION 1.131+/Users/ijihyeon/Desktop/self_study/java_self_study/workspace/.metadata/.plugins/org.eclipse.jdt.core
 2956259874.index
+1865797976.index
+3981961839.index
