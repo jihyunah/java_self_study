@@ -8,9 +8,9 @@ public class LoginDemo3 {
         if (id.equals("egoing") && password.equals("111111")) { //논리연산자 and
             System.out.println("right");
         } else {
+            System.out.println("wrong");
             //System.out.println("wrong");
-            System.out.println("wrong");
-            System.out.println("wrong");
+            //System.out.println("wrong");
 
         }
 	}
